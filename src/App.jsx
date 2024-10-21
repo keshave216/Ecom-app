@@ -22,6 +22,7 @@ const router = createBrowserRouter([
 function App() {
   return (
     <>
+      <p>Hello world</p>
       <Navbar />
       <div className="m-[100px] p-[24]"></div>
       <div className="bg-green-300 m-[100px] p-[24] flex-col ">
